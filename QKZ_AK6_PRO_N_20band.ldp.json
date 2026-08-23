@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "name": "QKZ AK6 PRO N",
+  "timestamp": 1779507178682,
+  "createdBy": "Lunaris Dolby Manager",
+  "bandMode": "20",
+  "bandCount": 20,
+  "bandGains": [
+    {
+      "frequency": 32,
+      "gain": 0
+    },
+    {
+      "frequency": 47,
+      "gain": -10
+    },
+    {
+      "frequency": 141,
+      "gain": -20
+    },
+    {
+      "frequency": 234,
+      "gain": -20
+    },
+    {
+      "frequency": 328,
+      "gain": -20
+    },
+    {
+      "frequency": 469,
+      "gain": 0
+    },
+    {
+      "frequency": 656,
+      "gain": 0
+    },
+    {
+      "frequency": 844,
+      "gain": 0
+    },
+    {
+      "frequency": 1031,
+      "gain": 20
+    },
+    {
+      "frequency": 1313,
+      "gain": 20
+    },
+    {
+      "frequency": 1688,
+      "gain": 20
+    },
+    {
+      "frequency": 2250,
+      "gain": 20
+    },
+    {
+      "frequency": 3000,
+      "gain": 30
+    },
+    {
+      "frequency": 3750,
+      "gain": 30
+    },
+    {
+      "frequency": 4688,
+      "gain": 20
+    },
+    {
+      "frequency": 5813,
+      "gain": 10
+    },
+    {
+      "frequency": 7125,
+      "gain": -20
+    },
+    {
+      "frequency": 9000,
+      "gain": -20
+    },
+    {
+      "frequency": 11250,
+      "gain": 0
+    },
+    {
+      "frequency": 19688,
+      "gain": 0
+    }
+  ]
+}
